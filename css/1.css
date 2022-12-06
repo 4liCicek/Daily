@@ -1,0 +1,15 @@
+.footer {
+    background-color: chartreuse;
+    height: 250px;
+}
+
+​ .under {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 25px;
+}
+
+.par {
+    margin-top: 8px;
+}
