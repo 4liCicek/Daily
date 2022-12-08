@@ -1,0 +1,31 @@
+.footer {
+    background-color: chartreuse;
+    height: 250px;
+    background-color: red;
+}
+
+.under {
+    display: flex;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 25px;
+}
+
+.par {
+    margin-top: 8px;
+}
+
+.img-slider {
+    width: 200px;
+    height: 500px;
+}
+
+.here {
+    box-shadow: 5px 5px 5px red;
+    margin-top: 30px;
+}
+
+.navbar a .img-fluid {
+    width: 100px;
+    height: auto;
+}
