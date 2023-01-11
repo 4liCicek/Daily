@@ -1,0 +1,18 @@
+.btn {
+    outline: none;
+    width: max-content;
+    background-color: rgb(127, 202, 255);
+    color: rgb(232, 223, 223);
+    border-radius: 3rem;
+    padding: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    box-sizing: border-box;
+    border: none;
+    transition: all 0.8s;
+}
+
+.btn:hover {
+    background-color: rgb(106, 255, 0);
+    color: red;
+}
